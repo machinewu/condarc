@@ -33,33 +33,33 @@ channels:
 
 
 default_channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2
 
 
 custom_channels:
-  pkgs/main: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  pkgs/free: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  pkgs/r: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  pkgs/msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  pkgs/pro: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  pkgs/mro: https://mirrors.tuna.tsinghua.edu.cn/anaconda/
-  auto: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  bioconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  caffe2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  conda-forge: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  fastai: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  fermi: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  intel: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  menpo: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  omnia: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  peterjc123: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  plotly: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  psi4: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  pytorch: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  simpleitk: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  stackless: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
-  ursky: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
+  pkgs/main: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  pkgs/free: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  pkgs/r: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  pkgs/msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  pkgs/pro: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  pkgs/mro: https://mirrors.tuna.tsinghua.edu.cn/anaconda
+  auto: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  bioconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  caffe2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  conda-forge: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  fastai: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  fermi: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  intel: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  menpo: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  msys2: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  omnia: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  peterjc123: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  plotly: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  psi4: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  pytorch: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  simpleitk: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  stackless: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  ursky: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
